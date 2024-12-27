@@ -41,6 +41,10 @@ result = sets.tosums(list_1,list_2)
 while result:
   print(result.data)
   result=result.next
-  
 
+#output  
+2
+2
+8
+8
 
