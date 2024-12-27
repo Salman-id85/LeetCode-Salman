@@ -43,8 +43,5 @@ while result:
   result=result.next
 
 #output  
-2
-2
-8
-8
+#2 2 8 8
 
